@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px
+}
+
+ul li{
+    display: inline-block;
+    background: #4444;
+    padding: 15px;
+
+}
